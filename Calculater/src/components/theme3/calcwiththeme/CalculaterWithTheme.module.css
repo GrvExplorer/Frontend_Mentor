@@ -1,0 +1,13 @@
+.heading {
+  color: #fddf41;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  gap: 295px;
+}

@@ -1,0 +1,22 @@
+p {
+  color: #fddf41;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  display: flex;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.themesNumber {
+  color: #ffdf35;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
